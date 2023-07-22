@@ -1,0 +1,562 @@
+FID_1,Location,Date,Set Type,Song Order,Song,Show_num,STATE_ABBR
+2132,"Ithica, NY",5/8/2023,First Set,1,Minglewood Blues,1,NY
+2132,"Ithica, NY",5/8/2023,First Set,2,Althea,1,NY
+2132,"Ithica, NY",5/8/2023,First Set,3,Estimated Prophet,1,NY
+2132,"Ithica, NY",5/8/2023,First Set,4,Eyes of the World,1,NY
+2132,"Ithica, NY",5/8/2023,First Set,5,Jack Straw,1,NY
+2132,"Ithica, NY",5/8/2023,First Set,6,Bertha,1,NY
+2132,"Ithica, NY",5/8/2023,First Set,7,Cassidy,1,NY
+2132,"Ithica, NY",5/8/2023,First Set,8,Deal,1,NY
+2132,"Ithica, NY",5/8/2023,Second Set,9,China Cat Sunflower,1,NY
+2132,"Ithica, NY",5/8/2023,Second Set,10,I Know You Rider,1,NY
+2132,"Ithica, NY",5/8/2023,Second Set,11,Help on the Way,1,NY
+2132,"Ithica, NY",5/8/2023,Second Set,12,Slipknot,1,NY
+2132,"Ithica, NY",5/8/2023,Second Set,13,Franklin's Tower,1,NY
+2132,"Ithica, NY",5/8/2023,Second Set,14,Drums,1,NY
+2132,"Ithica, NY",5/8/2023,Second Set,15,Space,1,NY
+2132,"Ithica, NY",5/8/2023,Second Set,16,Scarlet Begonias,1,NY
+2132,"Ithica, NY",5/8/2023,Second Set,17,Fire on the Mountain,1,NY
+2132,"Ithica, NY",5/8/2023,Second Set,18,Morning Dew,1,NY
+2132,"Ithica, NY",5/8/2023,Encore,19,Terrapin Station,1,NY
+1164,"Inglewood, CA",5/19/2023,First Set,1,Shakedown Street,2,CA
+1164,"Inglewood, CA",5/19/2023,First Set,2,Cold Rain and Snow,2,CA
+1164,"Inglewood, CA",5/19/2023,First Set,3,Mississippi Half Step,2,CA
+1164,"Inglewood, CA",5/19/2023,First Set,4,They Love Each Other,2,CA
+1164,"Inglewood, CA",5/19/2023,First Set,5,St. Stephen,2,CA
+1164,"Inglewood, CA",5/19/2023,First Set,6,William Tell Bridge,2,CA
+1164,"Inglewood, CA",5/19/2023,First Set,7,The Eleven,2,CA
+1164,"Inglewood, CA",5/19/2023,First Set,8,Deal,2,CA
+1164,"Inglewood, CA",5/19/2023,Second Set,9,Sugaree,2,CA
+1164,"Inglewood, CA",5/19/2023,Second Set,10,New Speedway Boogie,2,CA
+1164,"Inglewood, CA",5/19/2023,Second Set,11,Eyes of the World,2,CA
+1164,"Inglewood, CA",5/19/2023,Second Set,12,Estimated Prophet,2,CA
+1164,"Inglewood, CA",5/19/2023,Second Set,13,Drums,2,CA
+1164,"Inglewood, CA",5/19/2023,Second Set,14,Space,2,CA
+1164,"Inglewood, CA",5/19/2023,Second Set,15,The Wheel,2,CA
+1164,"Inglewood, CA",5/19/2023,Second Set,16,Wharf Rat,2,CA
+1164,"Inglewood, CA",5/19/2023,Second Set,17,Sugar Magnolia,2,CA
+1164,"Inglewood, CA",5/19/2023,Second Set,18,Sunshine Daydream,2,CA
+1164,"Inglewood, CA",5/19/2023,Encore,19,Black Muddy River,2,CA
+1164,"Inglewood, CA",5/20/2023,First Set,1,Bertha,3,CA
+1164,"Inglewood, CA",5/20/2023,First Set,2,Good Lovin,3,CA
+1164,"Inglewood, CA",5/20/2023,First Set,3,Brown Eyed Women,3,CA
+1164,"Inglewood, CA",5/20/2023,First Set,4,Jack Straw,3,CA
+1164,"Inglewood, CA",5/20/2023,First Set,5,High Time,3,CA
+1164,"Inglewood, CA",5/20/2023,First Set,6,Mr. Charlie,3,CA
+1164,"Inglewood, CA",5/20/2023,First Set,7,Bird Song,3,CA
+1164,"Inglewood, CA",5/20/2023,First Set,8,Dont Ease Me In,3,CA
+1164,"Inglewood, CA",5/20/2023,Second Set,9,Althea,3,CA
+1164,"Inglewood, CA",5/20/2023,Second Set,10,Other One,3,CA
+1164,"Inglewood, CA",5/20/2023,Second Set,11,Terrapin Station,3,CA
+1164,"Inglewood, CA",5/20/2023,Second Set,12,Other One V2,3,CA
+1164,"Inglewood, CA",5/20/2023,Second Set,13,Drums,3,CA
+1164,"Inglewood, CA",5/20/2023,Second Set,14,Space,3,CA
+1164,"Inglewood, CA",5/20/2023,Second Set,15,Stella Blue,3,CA
+1164,"Inglewood, CA",5/20/2023,Second Set,16,Help on the Way,3,CA
+1164,"Inglewood, CA",5/20/2023,Second Set,17,Slipknot,3,CA
+1164,"Inglewood, CA",5/20/2023,Second Set,18,Franklin's Tower,3,CA
+1164,"Inglewood, CA",5/20/2023,Encore,19,Brokedown Palace,3,CA
+910,"Phoniex, AZ",5/23/2023,First Set,1,Feel Like a Stranger,4,AZ
+910,"Phoniex, AZ",5/23/2023,First Set,2,Alabama Getaway,4,AZ
+910,"Phoniex, AZ",5/23/2023,First Set,3,Ramble On Rose,4,AZ
+910,"Phoniex, AZ",5/23/2023,First Set,4,Dear Mr. Fantasy,4,AZ
+910,"Phoniex, AZ",5/23/2023,First Set,5,Hey Jude Reprise,4,AZ
+910,"Phoniex, AZ",5/23/2023,First Set,6,Dark Star,4,AZ
+910,"Phoniex, AZ",5/23/2023,First Set,7,Cumberland Blues,4,AZ
+910,"Phoniex, AZ",5/23/2023,First Set,8,Casey Jones,4,AZ
+910,"Phoniex, AZ",5/23/2023,Second Set,9,Here Comes Sunshine,4,AZ
+910,"Phoniex, AZ",5/23/2023,Second Set,10,Scarlet Begonias,4,AZ
+910,"Phoniex, AZ",5/23/2023,Second Set,11,Viola Lee Blues,4,AZ
+910,"Phoniex, AZ",5/23/2023,Second Set,12,Dark Star (Second Verse),4,AZ
+910,"Phoniex, AZ",5/23/2023,Second Set,13,Fire on the Mountain,4,AZ
+910,"Phoniex, AZ",5/23/2023,Second Set,14,Drums,4,AZ
+910,"Phoniex, AZ",5/23/2023,Second Set,15,Space,4,AZ
+910,"Phoniex, AZ",5/23/2023,Second Set,16,I Need A Miracle,4,AZ
+910,"Phoniex, AZ",5/23/2023,Second Set,17,Death Dont Have No Mercy,4,AZ
+910,"Phoniex, AZ",5/23/2023,Second Set,18,US Blues,4,AZ
+910,"Phoniex, AZ",5/23/2023,Encore,19,Ripple,4,AZ
+3592,"Dallas, TX",5/26/2023,First Set,1,Let the Good Times Roll,5,TX
+3592,"Dallas, TX",5/26/2023,First Set,2,Hell in a Bucket,5,TX
+3592,"Dallas, TX",5/26/2023,First Set,3,Big Railroad Blues,5,TX
+3592,"Dallas, TX",5/26/2023,First Set,4,Lost Sailor,5,TX
+3592,"Dallas, TX",5/26/2023,First Set,5,Saint of Circumstance,5,TX
+3592,"Dallas, TX",5/26/2023,First Set,6,Ship of Fools,5,TX
+3592,"Dallas, TX",5/26/2023,First Set,7,Brown Eyed Women,5,TX
+3592,"Dallas, TX",5/26/2023,First Set,8,Music Never Stopped,5,TX
+3592,"Dallas, TX",5/26/2023,Second Set,9,Jack Straw,5,TX
+3592,"Dallas, TX",5/26/2023,Second Set,10,Truckin,5,TX
+3592,"Dallas, TX",5/26/2023,Second Set,11,He's Gone,5,TX
+3592,"Dallas, TX",5/26/2023,Second Set,12,Playin in the Band,5,TX
+3592,"Dallas, TX",5/26/2023,Second Set,13,Uncle John's Band,5,TX
+3592,"Dallas, TX",5/26/2023,Second Set,14,Drums,5,TX
+3592,"Dallas, TX",5/26/2023,Second Set,15,Space,5,TX
+3592,"Dallas, TX",5/26/2023,Second Set,16,All Along the Watchtower,5,TX
+3592,"Dallas, TX",5/26/2023,Second Set,17,Playing Reprise,5,TX
+3592,"Dallas, TX",5/26/2023,Second Set,18,Standing on the Moon,5,TX
+3592,"Dallas, TX",5/26/2023,Second Set,19,Not Fade Away,5,TX
+3592,"Dallas, TX",5/26/2023,Encore,20,Touch of Grey,5,TX
+1879,"Atlanta, GA",5/28/2023,First Set,1,Cassidy,6,GA
+1879,"Atlanta, GA",5/28/2023,First Set,2,Deal,6,GA
+1879,"Atlanta, GA",5/28/2023,First Set,3,Samson & Delilah,6,GA
+1879,"Atlanta, GA",5/28/2023,First Set,4,Friend of the Devil,6,GA
+1879,"Atlanta, GA",5/28/2023,First Set,5,It Hurts Me Too,6,GA
+1879,"Atlanta, GA",5/28/2023,First Set,6,Tennessee Jed,6,GA
+1879,"Atlanta, GA",5/28/2023,First Set,7,If I Had the World to Give,6,GA
+1879,"Atlanta, GA",5/28/2023,First Set,8,GDTRFB,6,GA
+1879,"Atlanta, GA",5/28/2023,Second Set,9,Althea,6,GA
+1879,"Atlanta, GA",5/28/2023,Second Set,10,Estimated Prophet,6,GA
+1879,"Atlanta, GA",5/28/2023,Second Set,11,China Cat Sunflower,6,GA
+1879,"Atlanta, GA",5/28/2023,Second Set,12,I Know You Rider,6,GA
+1879,"Atlanta, GA",5/28/2023,Second Set,13,Eyes of the World,6,GA
+1879,"Atlanta, GA",5/28/2023,Second Set,14,Drums,6,GA
+1879,"Atlanta, GA",5/28/2023,Second Set,15,Space,6,GA
+1879,"Atlanta, GA",5/28/2023,Second Set,16,Terrapin Station,6,GA
+1879,"Atlanta, GA",5/28/2023,Second Set,17,Morning Dew,6,GA
+2264,"Charlotte, NC",5/30/2023,First Set,1,Shakedown Street,7,NC
+2264,"Charlotte, NC",5/30/2023,First Set,2,Cold Rain and Snow,7,NC
+2264,"Charlotte, NC",5/30/2023,First Set,3,Loser,7,NC
+2264,"Charlotte, NC",5/30/2023,First Set,4,Dire Wolf,7,NC
+2264,"Charlotte, NC",5/30/2023,First Set,5,Loose Lucy,7,NC
+2264,"Charlotte, NC",5/30/2023,First Set,6,The Wheel,7,NC
+2264,"Charlotte, NC",5/30/2023,First Set,7,Bertha,7,NC
+2264,"Charlotte, NC",5/30/2023,First Set,8,Let it Grow,7,NC
+2264,"Charlotte, NC",5/30/2023,Second Set,9,Help on the Way,7,NC
+2264,"Charlotte, NC",5/30/2023,Second Set,10,Slipknot,7,NC
+2264,"Charlotte, NC",5/30/2023,Second Set,11,Franklin's Tower,7,NC
+2264,"Charlotte, NC",5/30/2023,Second Set,12,Fire on the Mountain,7,NC
+2264,"Charlotte, NC",5/30/2023,Second Set,13,Other One,7,NC
+2264,"Charlotte, NC",5/30/2023,Second Set,14,Drums,7,NC
+2264,"Charlotte, NC",5/30/2023,Second Set,15,Space,7,NC
+2264,"Charlotte, NC",5/30/2023,Second Set,16,Other One V2,7,NC
+2264,"Charlotte, NC",5/30/2023,Second Set,17,Black Peter,7,NC
+2264,"Charlotte, NC",5/30/2023,Second Set,18,Sugar Magnolia,7,NC
+2264,"Charlotte, NC",5/30/2023,Encore,19,US Blues,7,NC
+2318,"Raleigh, NC",6/1/2023,First Set,1,New Speedway Boogie,8,NC
+2318,"Raleigh, NC",6/1/2023,First Set,2,They Love Each Other,8,NC
+2318,"Raleigh, NC",6/1/2023,First Set,3,Mama Tried,8,NC
+2318,"Raleigh, NC",6/1/2023,First Set,4,Easy Wind,8,NC
+2318,"Raleigh, NC",6/1/2023,First Set,5,Ramble On Rose,8,NC
+2318,"Raleigh, NC",6/1/2023,First Set,6,Dear Mr. Fantasy,8,NC
+2318,"Raleigh, NC",6/1/2023,First Set,7,Hey Jude Reprise,8,NC
+2318,"Raleigh, NC",6/1/2023,First Set,8,Bird Song,8,NC
+2318,"Raleigh, NC",6/1/2023,Second Set,9,Sugaree,8,NC
+2318,"Raleigh, NC",6/1/2023,Second Set,10,St. Stephen,8,NC
+2318,"Raleigh, NC",6/1/2023,Second Set,11,William Tell Bridge,8,NC
+2318,"Raleigh, NC",6/1/2023,Second Set,12,The Eleven,8,NC
+2318,"Raleigh, NC",6/1/2023,Second Set,13,Iko Iko,8,NC
+2318,"Raleigh, NC",6/1/2023,Second Set,14,Drums,8,NC
+2318,"Raleigh, NC",6/1/2023,Second Set,15,Space,8,NC
+2318,"Raleigh, NC",6/1/2023,Second Set,16,I Need A Miracle,8,NC
+2318,"Raleigh, NC",6/1/2023,Second Set,17,Wharf Rat,8,NC
+2318,"Raleigh, NC",6/1/2023,Second Set,18,Casey Jones,8,NC
+2318,"Raleigh, NC",6/1/2023,Encore,19,Black Muddy River,8,NC
+3886,"Bristow, VA",6/3/2023,First Set,1,Here Comes Sunshine,9,VA
+9998,"Bristow, VA",6/3/2023,First Set,2,Mississippi Half Step,9,VA
+9998,"Bristow, VA",6/3/2023,First Set,3,Mr. Charlie,9,VA
+9998,"Bristow, VA",6/3/2023,First Set,4,He's Gone,9,VA
+9998,"Bristow, VA",6/3/2023,First Set,5,Brown Eyed Women,9,VA
+9998,"Bristow, VA",6/3/2023,First Set,6,Dear Prudence,9,VA
+9998,"Bristow, VA",6/3/2023,First Set,7,Lovelight,9,VA
+9998,"Bristow, VA",6/3/2023,Second Set,8,Deal,9,VA
+9998,"Bristow, VA",6/3/2023,Second Set,9,Scarlet Begonias,9,VA
+9998,"Bristow, VA",6/3/2023,Second Set,10,Playin in the Band,9,VA
+9998,"Bristow, VA",6/3/2023,Second Set,11,Cumberland Blues,9,VA
+9998,"Bristow, VA",6/3/2023,Second Set,12,Uncle John's Band,9,VA
+9998,"Bristow, VA",6/3/2023,Second Set,13,Drums,9,VA
+9998,"Bristow, VA",6/3/2023,Second Set,14,Space,9,VA
+9998,"Bristow, VA",6/3/2023,Second Set,15,Milestones,9,VA
+9998,"Bristow, VA",6/3/2023,Second Set,16,Days Between,9,VA
+9998,"Bristow, VA",6/3/2023,Second Set,17,Throwin Stones,9,VA
+9998,"Bristow, VA",6/3/2023,Second Set,18,One More Saturday Night,9,VA
+9998,"Bristow, VA",6/3/2023,Encore,19,Ripple,9,VA
+9997,"Burgettstown, PA",6/5/2023,First Set,1,Hell in a Bucket,10,PA
+9997,"Burgettstown, PA",6/5/2023,First Set,2,Alabama Getaway,10,PA
+9997,"Burgettstown, PA",6/5/2023,First Set,3,Jackstraw,10,PA
+9997,"Burgettstown, PA",6/5/2023,First Set,4,Big Boss Man,10,PA
+9997,"Burgettstown, PA",6/5/2023,First Set,5,Peggy-O,10,PA
+9997,"Burgettstown, PA",6/5/2023,First Set,6,Bertha,10,PA
+9997,"Burgettstown, PA",6/5/2023,First Set,7,Cassidy,10,PA
+9997,"Burgettstown, PA",6/5/2023,First Set,8,Dont Ease Me In,10,PA
+9997,"Burgettstown, PA",6/5/2023,Second Set,9,Viola Lee Blues,10,PA
+9997,"Burgettstown, PA",6/5/2023,Second Set,10,Truckin,10,PA
+9997,"Burgettstown, PA",6/5/2023,Second Set,11,China Doll,10,PA
+9997,"Burgettstown, PA",6/5/2023,Second Set,12,China Cat Sunflower,10,PA
+9997,"Burgettstown, PA",6/5/2023,Second Set,13,I Know You Rider,10,PA
+9997,"Burgettstown, PA",6/5/2023,Second Set,14,Drums,10,PA
+9997,"Burgettstown, PA",6/5/2023,Second Set,15,Space,10,PA
+9997,"Burgettstown, PA",6/5/2023,Second Set,16,Althea,10,PA
+9997,"Burgettstown, PA",6/5/2023,Second Set,17,Standing on the Moon,10,PA
+9997,"Burgettstown, PA",6/5/2023,Second Set,18,Not Fadeaway,10,PA
+9997,"Burgettstown, PA",6/5/2023,Encore,19,The Weight,10,PA
+3296,"Maryland Heights, MO",6/7/2023,First Set,1,Let the Good Times Roll,11,MO
+3296,"Maryland Heights, MO",6/7/2023,First Set,2,Big River,11,MO
+3296,"Maryland Heights, MO",6/7/2023,First Set,3,Friend of the Devil,11,MO
+3296,"Maryland Heights, MO",6/7/2023,First Set,4,They Love Each Other,11,MO
+3296,"Maryland Heights, MO",6/7/2023,First Set,5,Black Throated Wind,11,MO
+3296,"Maryland Heights, MO",6/7/2023,First Set,6,Big Railroad Blues,11,MO
+3296,"Maryland Heights, MO",6/7/2023,First Set,7,Dark Star,11,MO
+3296,"Maryland Heights, MO",6/7/2023,First Set,8,Johnny B. Goode,11,MO
+3296,"Maryland Heights, MO",6/7/2023,Second Set,9,Eyes of the World,11,MO
+3296,"Maryland Heights, MO",6/7/2023,Second Set,10,Dark Star (Second Verse),11,MO
+3296,"Maryland Heights, MO",6/7/2023,Second Set,11,Fire on the Mountain,11,MO
+3296,"Maryland Heights, MO",6/7/2023,Second Set,12,Shakedown Street,11,MO
+3296,"Maryland Heights, MO",6/7/2023,Second Set,13,Drums,11,MO
+3296,"Maryland Heights, MO",6/7/2023,Second Set,14,Space,11,MO
+3296,"Maryland Heights, MO",6/7/2023,Second Set,15,The Eleven,11,MO
+3296,"Maryland Heights, MO",6/7/2023,Second Set,16,Death Dont Have No Mercy,11,MO
+3296,"Maryland Heights, MO",6/7/2023,Second Set,17,GDTRFB,11,MO
+3296,"Maryland Heights, MO",6/7/2023,Encore,18,Knocking on Heavens Door,11,MO
+63,"Chicago, IL",6/9/2023,First Set,1,Playin in the Band,12,IL
+63,"Chicago, IL",6/9/2023,First Set,2,Deal,12,IL
+63,"Chicago, IL",6/9/2023,First Set,3,Tennessee Jed,12,IL
+63,"Chicago, IL",6/9/2023,First Set,4,It Hurts Me Too,12,IL
+63,"Chicago, IL",6/9/2023,First Set,5,Ramble On Rose,12,IL
+63,"Chicago, IL",6/9/2023,First Set,6,Brown Eyed Women,12,IL
+63,"Chicago, IL",6/9/2023,First Set,7,Crazy Fingers,12,IL
+63,"Chicago, IL",6/9/2023,First Set,8,Dancing in the Streets,12,IL
+63,"Chicago, IL",6/9/2023,Second Set,9,Sugaree,12,IL
+63,"Chicago, IL",6/9/2023,Second Set,10,Estimated Prophet,12,IL
+63,"Chicago, IL",6/9/2023,Second Set,11,Other One,12,IL
+63,"Chicago, IL",6/9/2023,Second Set,12,Terrapin Station,12,IL
+63,"Chicago, IL",6/9/2023,Second Set,13,Drums,12,IL
+63,"Chicago, IL",6/9/2023,Second Set,14,Space,12,IL
+63,"Chicago, IL",6/9/2023,Second Set,15,Stella Blue,12,IL
+63,"Chicago, IL",6/9/2023,Second Set,16,Sugar Magnolia,12,IL
+63,"Chicago, IL",6/9/2023,Second Set,17,Scarlet Begonias,12,IL
+63,"Chicago, IL",6/9/2023,Second Set,18,Sunshine Daydream,12,IL
+63,"Chicago, IL",6/9/2023,Encore,19,US Blues,12,IL
+63,"Chicago, IL",6/10/2023,First Set,1,Truckin,13,IL
+63,"Chicago, IL",6/10/2023,First Set,2,Smokestack Lightning,13,IL
+63,"Chicago, IL",6/10/2023,First Set,3,Althea,13,IL
+63,"Chicago, IL",6/10/2023,First Set,4,Mississippi Half Step,13,IL
+63,"Chicago, IL",6/10/2023,First Set,5,High Time,13,IL
+63,"Chicago, IL",6/10/2023,First Set,6,All Along the Watchtower,13,IL
+63,"Chicago, IL",6/10/2023,First Set,7,Bertha,13,IL
+63,"Chicago, IL",6/10/2023,First Set,8,Good Lovin,13,IL
+63,"Chicago, IL",6/10/2023,Second Set,9,Help on the Way,13,IL
+63,"Chicago, IL",6/10/2023,Second Set,10,Slipknot,13,IL
+63,"Chicago, IL",6/10/2023,Second Set,11,Franklin's Tower,13,IL
+63,"Chicago, IL",6/10/2023,Second Set,12,St. Stephen,13,IL
+63,"Chicago, IL",6/10/2023,Second Set,13,Drums,13,IL
+63,"Chicago, IL",6/10/2023,Second Set,14,Space,13,IL
+63,"Chicago, IL",6/10/2023,Second Set,15,Uncle John's Band,13,IL
+63,"Chicago, IL",6/10/2023,Second Set,16,Cumberland Blues,13,IL
+63,"Chicago, IL",6/10/2023,Second Set,17,Other One,13,IL
+63,"Chicago, IL",6/10/2023,Second Set,18,Morning Dew,13,IL
+63,"Chicago, IL",6/10/2023,Encore,19,Brokedown Palace,13,IL
+63,"Chicago, IL",6/10/2023,Encore,20,Playing Reprise,13,IL
+63,"Chicago, IL",6/10/2023,Encore,21,One More Saturday Night,13,IL
+2382,"Cincinnati, OH",6/13/2023,First Set,1,Music Never Stopped,14,OH
+2382,"Cincinnati, OH",6/13/2023,First Set,2,Next Time You See me,14,OH
+2382,"Cincinnati, OH",6/13/2023,First Set,3,Me and My Uncle,14,OH
+2382,"Cincinnati, OH",6/13/2023,First Set,4,Row Jimmy,14,OH
+2382,"Cincinnati, OH",6/13/2023,First Set,5,Dear Mr. Fantasy,14,OH
+2382,"Cincinnati, OH",6/13/2023,First Set,6,Hey Jude Reprise,14,OH
+2382,"Cincinnati, OH",6/13/2023,First Set,7,Cassidy,14,OH
+2382,"Cincinnati, OH",6/13/2023,First Set,8,Iko Iko,14,OH
+2382,"Cincinnati, OH",6/13/2023,Second Set,9,Here Comes Sunshine,14,OH
+2382,"Cincinnati, OH",6/13/2023,Second Set,10,Viola Lee Blues,14,OH
+2382,"Cincinnati, OH",6/13/2023,Second Set,11,Looks Like Rain,14,OH
+2382,"Cincinnati, OH",6/13/2023,Second Set,12,China Cat Sunflower,14,OH
+2382,"Cincinnati, OH",6/13/2023,Second Set,13,I Know You Rider,14,OH
+2382,"Cincinnati, OH",6/13/2023,Second Set,14,Drums,14,OH
+2382,"Cincinnati, OH",6/13/2023,Second Set,15,Space,14,OH
+2382,"Cincinnati, OH",6/13/2023,Second Set,16,The Wheel,14,OH
+2382,"Cincinnati, OH",6/13/2023,Second Set,17,Wharf Rat,14,OH
+2382,"Cincinnati, OH",6/13/2023,Second Set,18,Casey Jones,14,OH
+2382,"Cincinnati, OH",6/13/2023,Encore,19,Touch of Grey,14,OH
+2987,"Philadelphia, PA",6/15/2023,First Set,1,"Man Smart, Women Smarter",15,PA
+2987,"Philadelphia, PA",6/15/2023,First Set,2,Shakedown Street,15,PA
+2987,"Philadelphia, PA",6/15/2023,First Set,3,Cold Rain and Snow,15,PA
+2987,"Philadelphia, PA",6/15/2023,First Set,4,Jack Straw,15,PA
+2987,"Philadelphia, PA",6/15/2023,First Set,5,Brown Eyed Women,15,PA
+2987,"Philadelphia, PA",6/15/2023,First Set,6,Dark Star,15,PA
+2987,"Philadelphia, PA",6/15/2023,First Set,7,El Paso,15,PA
+2987,"Philadelphia, PA",6/15/2023,First Set,8,Dont Ease Me In,15,PA
+2987,"Philadelphia, PA",6/15/2023,Second Set,9,Fire on the Mountain,15,PA
+2987,"Philadelphia, PA",6/15/2023,Second Set,10,New Speedway Boogie,15,PA
+2987,"Philadelphia, PA",6/15/2023,Second Set,11,Estimated Prophet,15,PA
+2987,"Philadelphia, PA",6/15/2023,Second Set,12,Eyes of the World,15,PA
+2987,"Philadelphia, PA",6/15/2023,Second Set,13,Drums,15,PA
+2987,"Philadelphia, PA",6/15/2023,Second Set,14,Space,15,PA
+2987,"Philadelphia, PA",6/15/2023,Second Set,15,Dark Star (Second Verse),15,PA
+2987,"Philadelphia, PA",6/15/2023,Second Set,16,Cumberland Blues,15,PA
+2987,"Philadelphia, PA",6/15/2023,Second Set,17,Standing on the Moon,15,PA
+2987,"Philadelphia, PA",6/15/2023,Second Set,18,Not Fade Away,15,PA
+2987,"Philadelphia, PA",6/15/2023,Encore,19,Ripple,15,PA
+2215,"Saratoga Springs, NY",6/17/2023,First Set,1,Let the Good Times Roll,16,NY
+2215,"Saratoga Springs, NY",6/17/2023,First Set,2,Scarlet Begonias,16,NY
+2215,"Saratoga Springs, NY",6/17/2023,First Set,3,Deal,16,NY
+2215,"Saratoga Springs, NY",6/17/2023,First Set,4,Black Throated Wind,16,NY
+2215,"Saratoga Springs, NY",6/17/2023,First Set,5,Dire Wolf,16,NY
+2215,"Saratoga Springs, NY",6/17/2023,First Set,6,Bird Song,16,NY
+2215,"Saratoga Springs, NY",6/17/2023,First Set,7,GDTRFB,16,NY
+2215,"Saratoga Springs, NY",6/17/2023,Second Set,8,They Love Each Other,16,NY
+2215,"Saratoga Springs, NY",6/17/2023,Second Set,9,Terrapin Station,16,NY
+2215,"Saratoga Springs, NY",6/17/2023,Second Set,10,He's Gone,16,NY
+2215,"Saratoga Springs, NY",6/17/2023,Second Set,11,Other One,16,NY
+2215,"Saratoga Springs, NY",6/17/2023,Second Set,12,Drums,16,NY
+2215,"Saratoga Springs, NY",6/17/2023,Second Set,13,Space,16,NY
+2215,"Saratoga Springs, NY",6/17/2023,Second Set,14,Other One V2,16,NY
+2215,"Saratoga Springs, NY",6/17/2023,Second Set,15,Days Between,16,NY
+2215,"Saratoga Springs, NY",6/17/2023,Second Set,16,Lovelight,16,NY
+2215,"Saratoga Springs, NY",6/17/2023,Encore,17,One More Saturday Night,16,NY
+2215,"Saratoga Springs, NY",6/18/2023,First Set,1,Hell in a Bucket,17,NY
+2215,"Saratoga Springs, NY",6/18/2023,First Set,2,Sugaree,17,NY
+2215,"Saratoga Springs, NY",6/18/2023,First Set,3,Mississippi Half Step,17,NY
+2215,"Saratoga Springs, NY",6/18/2023,First Set,4,Mr. Charlie,17,NY
+2215,"Saratoga Springs, NY",6/18/2023,First Set,5,Friend of the Devil,17,NY
+2215,"Saratoga Springs, NY",6/18/2023,First Set,6,Lost Sailor,17,NY
+2215,"Saratoga Springs, NY",6/18/2023,First Set,7,Saint of Circumstance,17,NY
+2215,"Saratoga Springs, NY",6/18/2023,First Set,8,Big Railroad Blues,17,NY
+2215,"Saratoga Springs, NY",6/18/2023,Second Set,9,Samson & Delilah,17,NY
+2215,"Saratoga Springs, NY",6/18/2023,Second Set,10,Playin in the Band,17,NY
+2215,"Saratoga Springs, NY",6/18/2023,Second Set,11,Help on the Way,17,NY
+2215,"Saratoga Springs, NY",6/18/2023,Second Set,12,Slipknot,17,NY
+2215,"Saratoga Springs, NY",6/18/2023,Second Set,13,Franklin's Tower,17,NY
+2215,"Saratoga Springs, NY",6/18/2023,Second Set,14,Drums,17,NY
+2215,"Saratoga Springs, NY",6/18/2023,Second Set,15,Space,17,NY
+2215,"Saratoga Springs, NY",6/18/2023,Second Set,16,Death Dont Have No Mercy,17,NY
+2215,"Saratoga Springs, NY",6/18/2023,Second Set,17,Throwin Stones,17,NY
+2215,"Saratoga Springs, NY",6/18/2023,Second Set,18,Sugar Magnolia,17,NY
+2215,"Saratoga Springs, NY",6/18/2023,Second Set,19,Sunshine Daydream,17,NY
+2215,"Saratoga Springs, NY",6/18/2023,Encore,20,Werewolves of London,17,NY
+2215,"Saratoga Springs, NY",6/18/2023,Encore,21,Playing Reprise,17,NY
+2174,"New York, NY",6/21/2023,First Set,1,Shakedown Street,18,NY
+2174,"New York, NY",6/21/2023,First Set,2,Bertha,18,NY
+2174,"New York, NY",6/21/2023,First Set,3,Ramble On Rose,18,NY
+2174,"New York, NY",6/21/2023,First Set,4,It Hurts Me Too,18,NY
+2174,"New York, NY",6/21/2023,First Set,5,Dancing in the Streets,18,NY
+2174,"New York, NY",6/21/2023,First Set,6,Althea,18,NY
+2174,"New York, NY",6/21/2023,First Set,7,Let it Grow,18,NY
+2174,"New York, NY",6/21/2023,Second Set,8,China Cat Sunflower,18,NY
+2174,"New York, NY",6/21/2023,Second Set,9,I Know You Rider,18,NY
+2174,"New York, NY",6/21/2023,Second Set,10,St. Stephen,18,NY
+2174,"New York, NY",6/21/2023,Second Set,11,Uncle John's Band,18,NY
+2174,"New York, NY",6/21/2023,Second Set,12,Drums,18,NY
+2174,"New York, NY",6/21/2023,Second Set,13,Space,18,NY
+2174,"New York, NY",6/21/2023,Second Set,14,The Eleven,18,NY
+2174,"New York, NY",6/21/2023,Second Set,15,Stella Blue,18,NY
+2174,"New York, NY",6/21/2023,Second Set,16,US Blues,18,NY
+2174,"New York, NY",6/21/2023,Encore,17,Black Muddy River,18,NY
+2174,"New York, NY",6/22/2023,First Set,1,Feel Like a Stranger,19,NY
+2174,"New York, NY",6/22/2023,First Set,2,Franklin's Tower,19,NY
+2174,"New York, NY",6/22/2023,First Set,3,Mama Tried,19,NY
+2174,"New York, NY",6/22/2023,First Set,4,Alabama Getaway,19,NY
+2174,"New York, NY",6/22/2023,First Set,5,Dear Mr. Fantasy,19,NY
+2174,"New York, NY",6/22/2023,First Set,6,Hey Jude Reprise,19,NY
+2174,"New York, NY",6/22/2023,First Set,7,Truckin,19,NY
+2174,"New York, NY",6/22/2023,First Set,8,Deal,19,NY
+2174,"New York, NY",6/22/2023,Second Set,9,Scarlet Begonias,19,NY
+2174,"New York, NY",6/22/2023,Second Set,10,Fire on the Mountain,19,NY
+2174,"New York, NY",6/22/2023,Second Set,11,Estimated Prophet,19,NY
+2174,"New York, NY",6/22/2023,Second Set,12,Eyes of the World,19,NY
+2174,"New York, NY",6/22/2023,Second Set,13,Drums,19,NY
+2174,"New York, NY",6/22/2023,Second Set,14,Space,19,NY
+2174,"New York, NY",6/22/2023,Second Set,15,All Blues,19,NY
+2174,"New York, NY",6/22/2023,Second Set,16,Cumberland Blues,19,NY
+2174,"New York, NY",6/22/2023,Second Set,17,All Along the Watchtower,19,NY
+2174,"New York, NY",6/22/2023,Second Set,18,Morning Dew,19,NY
+2174,"New York, NY",6/22/2023,Encore,19,Brokedown Palace,19,NY
+1437,"Boston, MA",6/25/2023,First Set,1,Samson & Delilah,20,MA
+1437,"Boston, MA",6/25/2023,First Set,2,Cold Rain and Snow,20,MA
+1437,"Boston, MA",6/25/2023,First Set,3,Jack Straw,20,MA
+1437,"Boston, MA",6/25/2023,First Set,4,Althea,20,MA
+1437,"Boston, MA",6/25/2023,First Set,5,Comes a Time,20,MA
+1437,"Boston, MA",6/25/2023,First Set,6,Mr. Charlie,20,MA
+1437,"Boston, MA",6/25/2023,First Set,7,He's Gone,20,MA
+1437,"Boston, MA",6/25/2023,First Set,8,GDTRFB,20,MA
+1437,"Boston, MA",6/25/2023,Second Set,9,They Love Each Other,20,MA
+1437,"Boston, MA",6/25/2023,Second Set,10,Playin in the Band,20,MA
+1437,"Boston, MA",6/25/2023,Second Set,11,Help on the Way,20,MA
+1437,"Boston, MA",6/25/2023,Second Set,12,Slipknot,20,MA
+1437,"Boston, MA",6/25/2023,Second Set,13,Fire on the Mountain,20,MA
+1437,"Boston, MA",6/25/2023,Second Set,14,Drums,20,MA
+1437,"Boston, MA",6/25/2023,Second Set,15,Space,20,MA
+1437,"Boston, MA",6/25/2023,Second Set,16,Playing Reprise,20,MA
+1437,"Boston, MA",6/25/2023,Second Set,17,Other One V2,20,MA
+1437,"Boston, MA",6/25/2023,Second Set,18,Standing on the Moon,20,MA
+1437,"Boston, MA",6/25/2023,Second Set,19,Not Fade Away,20,MA
+1437,"Boston, MA",6/25/2023,Encore,20,The Weight,20,MA
+1437,"Boston, MA",6/25/2023,Encore,21,Ripple,20,MA
+301,"Noblesville, IN",6/27/2023,First Set,1,Bertha,21,IN
+301,"Noblesville, IN",6/27/2023,First Set,2,Good Lovin,21,IN
+301,"Noblesville, IN",6/27/2023,First Set,3,Must Have Been the Roses,21,IN
+301,"Noblesville, IN",6/27/2023,First Set,4,Big River,21,IN
+301,"Noblesville, IN",6/27/2023,First Set,5,Dark Star,21,IN
+301,"Noblesville, IN",6/27/2023,First Set,6,Next Time You See me,21,IN
+301,"Noblesville, IN",6/27/2023,First Set,7,Mississippi Half Step,21,IN
+301,"Noblesville, IN",6/27/2023,First Set,8,Bird Song,21,IN
+301,"Noblesville, IN",6/27/2023,First Set,9,Dont Ease Me In,21,IN
+301,"Noblesville, IN",6/27/2023,Second Set,10,Iko Iko,21,IN
+301,"Noblesville, IN",6/27/2023,Second Set,11,Sugaree,21,IN
+301,"Noblesville, IN",6/27/2023,Second Set,12,China Cat Sunflower,21,IN
+301,"Noblesville, IN",6/27/2023,Second Set,13,I Know You Rider,21,IN
+301,"Noblesville, IN",6/27/2023,Second Set,14,Uncle John's Band,21,IN
+301,"Noblesville, IN",6/27/2023,Second Set,15,Drums,21,IN
+301,"Noblesville, IN",6/27/2023,Second Set,16,Space,21,IN
+301,"Noblesville, IN",6/27/2023,Second Set,17,Hell in a Bucket,21,IN
+301,"Noblesville, IN",6/27/2023,Second Set,18,Wharf Rat,21,IN
+301,"Noblesville, IN",6/27/2023,Second Set,19,Lovelight,21,IN
+301,"Noblesville, IN",6/27/2023,Encore,20,Touch of Grey,21,IN
+661,"Boulder, CO",7/1/2023,First Set,1,Let the Good Times Roll,22,CO
+661,"Boulder, CO",7/1/2023,First Set,2,Truckin,22,CO
+661,"Boulder, CO",7/1/2023,First Set,3,Smokestack Lightning,22,CO
+661,"Boulder, CO",7/1/2023,First Set,4,Deal,22,CO
+661,"Boulder, CO",7/1/2023,First Set,5,Me and My Uncle,22,CO
+661,"Boulder, CO",7/1/2023,First Set,6,Dear Mr. Fantasy,22,CO
+661,"Boulder, CO",7/1/2023,First Set,7,Hey Jude Reprise,22,CO
+661,"Boulder, CO",7/1/2023,First Set,8,Terrapin Station,22,CO
+661,"Boulder, CO",7/1/2023,First Set,9,Dont Ease Me In,22,CO
+661,"Boulder, CO",7/1/2023,Second Set,10,Eyes of the World,22,CO
+661,"Boulder, CO",7/1/2023,Second Set,11,Shakedown Street,22,CO
+661,"Boulder, CO",7/1/2023,Second Set,12,St. Stephen,22,CO
+661,"Boulder, CO",7/1/2023,Second Set,13,Cumberland Blues,22,CO
+661,"Boulder, CO",7/1/2023,Second Set,14,Drums,22,CO
+661,"Boulder, CO",7/1/2023,Second Set,15,Space,22,CO
+661,"Boulder, CO",7/1/2023,Second Set,16,Milestones,22,CO
+661,"Boulder, CO",7/1/2023,Second Set,17,Days Between,22,CO
+661,"Boulder, CO",7/1/2023,Second Set,18,Sugar Magnolia,22,CO
+661,"Boulder, CO",7/1/2023,Second Set,19,Scarlet Begonias,22,CO
+661,"Boulder, CO",7/1/2023,Second Set,20,Sunshine Daydream,22,CO
+661,"Boulder, CO",7/1/2023,Encore,21,GDTRFB,22,CO
+661,"Boulder, CO",7/2/2023,First Set,1,Feel Like a Stranger,23,CO
+661,"Boulder, CO",7/2/2023,First Set,2,Brown Eyed Women,23,CO
+661,"Boulder, CO",7/2/2023,First Set,3,Samson & Delilah,23,CO
+661,"Boulder, CO",7/2/2023,First Set,4,Friend of the Devil,23,CO
+661,"Boulder, CO",7/2/2023,First Set,5,It Hurts Me Too,23,CO
+661,"Boulder, CO",7/2/2023,First Set,6,Ramble On Rose,23,CO
+661,"Boulder, CO",7/2/2023,First Set,7,High Time,23,CO
+661,"Boulder, CO",7/2/2023,First Set,8,Let it Grow,23,CO
+661,"Boulder, CO",7/2/2023,Second Set,9,They Love Each Other,23,CO
+661,"Boulder, CO",7/2/2023,Second Set,10,China Cat Sunflower,23,CO
+661,"Boulder, CO",7/2/2023,Second Set,11,I Know You Rider,23,CO
+661,"Boulder, CO",7/2/2023,Second Set,12,Fire on the Mountain,23,CO
+661,"Boulder, CO",7/2/2023,Second Set,13,Other One,23,CO
+661,"Boulder, CO",7/2/2023,Second Set,14,Drums,23,CO
+661,"Boulder, CO",7/2/2023,Second Set,15,Space,23,CO
+661,"Boulder, CO",7/2/2023,Second Set,16,The Eleven,23,CO
+661,"Boulder, CO",7/2/2023,Second Set,17,US Blues,23,CO
+661,"Boulder, CO",7/2/2023,Second Set,18,Morning Dew,23,CO
+661,"Boulder, CO",7/2/2023,Encore,19,Ripple,23,CO
+661,"Boulder, CO",7/3/2023,First Set,1,Bertha,24,CO
+661,"Boulder, CO",7/3/2023,First Set,2,New Speedway Boogie,24,CO
+661,"Boulder, CO",7/3/2023,First Set,3,Cold Rain and Snow,24,CO
+661,"Boulder, CO",7/3/2023,First Set,4,Jack Straw,24,CO
+661,"Boulder, CO",7/3/2023,First Set,5,Althea,24,CO
+661,"Boulder, CO",7/3/2023,First Set,6,Playin in the Band,24,CO
+661,"Boulder, CO",7/3/2023,First Set,7,Rain Delay,24,CO
+661,"Boulder, CO",7/3/2023,Second Set,8,Playin in the Band,24,CO
+661,"Boulder, CO",7/3/2023,Second Set,9,Uncle John's Band,24,CO
+661,"Boulder, CO",7/3/2023,Second Set,10,Playing Reprise,24,CO
+661,"Boulder, CO",7/3/2023,Second Set,11,Help on the Way,24,CO
+661,"Boulder, CO",7/3/2023,Second Set,12,Slipknot,24,CO
+661,"Boulder, CO",7/3/2023,Second Set,13,Franklin's Tower,24,CO
+661,"Boulder, CO",7/3/2023,Second Set,14,He's Gone,24,CO
+661,"Boulder, CO",7/3/2023,Second Set,15,Other One V2,24,CO
+661,"Boulder, CO",7/3/2023,Second Set,16,Drums,24,CO
+661,"Boulder, CO",7/3/2023,Second Set,17,Space,24,CO
+661,"Boulder, CO",7/3/2023,Second Set,18,Standing on the Moon,24,CO
+661,"Boulder, CO",7/3/2023,Second Set,19,All Along the Watchtower,24,CO
+661,"Boulder, CO",7/3/2023,Second Set,20,Not Fade Away,24,CO
+661,"Boulder, CO",7/3/2023,Encore,21,Knocking on Heavens Door,24,CO
+661,"Boulder, CO",7/3/2023,Encore,22,The Weight,24,CO
+9999,"George, WA",7/7/2023,First Set,1,Music Never Stopped,25,WA
+9999,"George, WA",7/7/2023,First Set,2,Alabama Getaway,25,WA
+9999,"George, WA",7/7/2023,First Set,3,When I Paint My Masterpiece,25,WA
+9999,"George, WA",7/7/2023,First Set,4,Mr. Charlie,25,WA
+9999,"George, WA",7/7/2023,First Set,5,Tennessee Jed,25,WA
+9999,"George, WA",7/7/2023,First Set,6,Dire Wolf,25,WA
+9999,"George, WA",7/7/2023,First Set,7,Bird Song,25,WA
+9999,"George, WA",7/7/2023,First Set,8,Big Railroad Blues,25,WA
+9999,"George, WA",7/7/2023,Second Set,9,Sugaree,25,WA
+9999,"George, WA",7/7/2023,Second Set,10,Estimated Prophet,25,WA
+9999,"George, WA",7/7/2023,Second Set,11,Scarlet Begonias,25,WA
+9999,"George, WA",7/7/2023,Second Set,12,Viola Lee Blues,25,WA
+9999,"George, WA",7/7/2023,Second Set,13,Dark Star,25,WA
+9999,"George, WA",7/7/2023,Second Set,14,Drums,25,WA
+9999,"George, WA",7/7/2023,Second Set,15,Space,25,WA
+9999,"George, WA",7/7/2023,Second Set,16,Cumberland Blues,25,WA
+9999,"George, WA",7/7/2023,Second Set,17,Black Peter,25,WA
+9999,"George, WA",7/7/2023,Second Set,18,Casey Jones,25,WA
+9999,"George, WA",7/7/2023,Encore,19,Black Muddy River,25,WA
+9999,"George, WA",7/8/2023,First Set,1,Mississippi Half Step,26,WA
+9999,"George, WA",7/8/2023,First Set,2,Here Comes Sunshine,26,WA
+9999,"George, WA",7/8/2023,First Set,3,Next Time You See me,26,WA
+9999,"George, WA",7/8/2023,First Set,4,Loose Lucy,26,WA
+9999,"George, WA",7/8/2023,First Set,5,Friend of the Devil,26,WA
+9999,"George, WA",7/8/2023,First Set,6,They Love Each Other,26,WA
+9999,"George, WA",7/8/2023,First Set,7,Lost Sailor,26,WA
+9999,"George, WA",7/8/2023,First Set,8,Saint of Circumstance,26,WA
+9999,"George, WA",7/8/2023,Second Set,9,Playin in the Band,26,WA
+9999,"George, WA",7/8/2023,Second Set,10,The Wheel,26,WA
+9999,"George, WA",7/8/2023,Second Set,11,Playing Reprise,26,WA
+9999,"George, WA",7/8/2023,Second Set,12,St. Stephen,26,WA
+9999,"George, WA",7/8/2023,Second Set,13,William Tell Bridge,26,WA
+9999,"George, WA",7/8/2023,Second Set,14,The Eleven,26,WA
+9999,"George, WA",7/8/2023,Second Set,15,Drums,26,WA
+9999,"George, WA",7/8/2023,Second Set,16,Space,26,WA
+9999,"George, WA",7/8/2023,Second Set,17,Dark Star (Second Verse),26,WA
+9999,"George, WA",7/8/2023,Second Set,18,Althea,26,WA
+9999,"George, WA",7/8/2023,Second Set,19,Stella Blue,26,WA
+9999,"George, WA",7/8/2023,Second Set,20,One More Saturday Night,26,WA
+554,"San Francisco, CA",7/14/2023,First Set,1,Not Fade Away,27,CA
+554,"San Francisco, CA",7/14/2023,First Set,2,Shakedown Street,27,CA
+554,"San Francisco, CA",7/14/2023,First Set,3,Cold Rain and Snow,27,CA
+554,"San Francisco, CA",7/14/2023,First Set,4,Ramble On Rose,27,CA
+554,"San Francisco, CA",7/14/2023,First Set,5,Brown Eyed Women,27,CA
+554,"San Francisco, CA",7/14/2023,First Set,6,New Speedway Boogie,27,CA
+554,"San Francisco, CA",7/14/2023,First Set,7,Wharf Rat,27,CA
+554,"San Francisco, CA",7/14/2023,First Set,8,Don't Ease Me In,27,CA
+554,"San Francisco, CA",7/14/2023,Second Set,9,China Cat Sunflower,27,CA
+554,"San Francisco, CA",7/14/2023,Second Set,10,I Know You Rider,27,CA
+554,"San Francisco, CA",7/14/2023,Second Set,11,He's Gone,27,CA
+554,"San Francisco, CA",7/14/2023,Second Set,12,Scarlet Begonias,27,CA
+554,"San Francisco, CA",7/14/2023,Second Set,13,Fire on the Mountain,27,CA
+554,"San Francisco, CA",7/14/2023,Second Set,14,Drums,27,CA
+554,"San Francisco, CA",7/14/2023,Second Set,15,Space,27,CA
+554,"San Francisco, CA",7/14/2023,Second Set,16,Dark Star Big River Jam,27,CA
+554,"San Francisco, CA",7/14/2023,Second Set,17,Standing on the Moon,27,CA
+554,"San Francisco, CA",7/14/2023,Second Set,18,Casey Jones,27,CA
+554,"San Francisco, CA",7/14/2023,Second Set,19,US Blues,27,CA
+554,"San Francisco, CA",7/14/2023,Encore,20,Knocking on Heaven's Door,27,CA
+554,"San Francisco, CA",7/15/2023,First Set,1,Let the Good Times Roll,28,CA
+554,"San Francisco, CA",7/15/2023,First Set,2,Hell in a Bucket,28,CA
+554,"San Francisco, CA",7/15/2023,First Set,3,It Hurts Me Too,28,CA
+554,"San Francisco, CA",7/15/2023,First Set,4,Jack Straw,28,CA
+554,"San Francisco, CA",7/15/2023,First Set,5,Big Railroad Blues,28,CA
+554,"San Francisco, CA",7/15/2023,First Set,6,Cassidy,28,CA
+554,"San Francisco, CA",7/15/2023,First Set,7,They Love Each Other,28,CA
+554,"San Francisco, CA",7/15/2023,First Set,8,Lovelight,28,CA
+554,"San Francisco, CA",7/15/2023,Second Set,9,Deal,28,CA
+554,"San Francisco, CA",7/15/2023,Second Set,10,Playin in the Band,28,CA
+554,"San Francisco, CA",7/15/2023,Second Set,11,Other One,28,CA
+554,"San Francisco, CA",7/15/2023,Second Set,12,Terrapin Station,28,CA
+554,"San Francisco, CA",7/15/2023,Second Set,13,Drums,28,CA
+554,"San Francisco, CA",7/15/2023,Second Set,14,Space,28,CA
+554,"San Francisco, CA",7/15/2023,Second Set,15,Uncle John's Band,28,CA
+554,"San Francisco, CA",7/15/2023,Second Set,16,Playing Reprise,28,CA
+554,"San Francisco, CA",7/15/2023,Second Set,17,Other One V2,28,CA
+554,"San Francisco, CA",7/15/2023,Second Set,18,Morning Dew,28,CA
+554,"San Francisco, CA",7/15/2023,Encore,19,Ripple,28,CA
+554,"San Francisco, CA",7/16/2023,First Set,1,Bertha,29,CA
+554,"San Francisco, CA",7/16/2023,First Set,2,Good Lovin,29,CA
+554,"San Francisco, CA",7/16/2023,First Set,3,High Time,29,CA
+554,"San Francisco, CA",7/16/2023,First Set,4,Samson & Delilah,29,CA
+554,"San Francisco, CA",7/16/2023,First Set,5,Althea,29,CA
+554,"San Francisco, CA",7/16/2023,First Set,6,Dear Mr. Fantasy,29,CA
+554,"San Francisco, CA",7/16/2023,First Set,7,Hey Jude Reprise,29,CA
+554,"San Francisco, CA",7/16/2023,First Set,8,Bird Song,29,CA
+554,"San Francisco, CA",7/16/2023,Second Set,9,Help on the Way,29,CA
+554,"San Francisco, CA",7/16/2023,Second Set,10,Slipknot,29,CA
+554,"San Francisco, CA",7/16/2023,Second Set,11,Franklin's Tower,29,CA
+554,"San Francisco, CA",7/16/2023,Second Set,12,Estimated Prophet,29,CA
+554,"San Francisco, CA",7/16/2023,Second Set,13,Eyes of the World,29,CA
+554,"San Francisco, CA",7/16/2023,Second Set,14,Drums,29,CA
+554,"San Francisco, CA",7/16/2023,Second Set,15,Space,29,CA
+554,"San Francisco, CA",7/16/2023,Second Set,16,Days Between,29,CA
+554,"San Francisco, CA",7/16/2023,Second Set,17,Cumberland Blues,29,CA
+554,"San Francisco, CA",7/16/2023,Second Set,18,Sugar Magnolia,29,CA
+554,"San Francisco, CA",7/16/2023,Encore,19,Truckin,29,CA
+554,"San Francisco, CA",7/16/2023,Encore,20,Brokedown Palace,29,CA
+554,"San Francisco, CA",7/16/2023,Encore,21,Not Fade Away,29,CA
